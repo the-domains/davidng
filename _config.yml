@@ -1,0 +1,28 @@
+name: Davidng
+favicon: null
+layout_spectrum: 0.08874874282628298
+typography_spectrum: 0.8885736560914665
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7741443591658026
+  lightness: 0.09709130856208503
+  saturation: 0.09321366040967405
+  rhythmicContrast: 0.08317238092422485
+purpose: []
